@@ -32,6 +32,6 @@ Track the development of the whole project trought the issue and wiki sistem.
 
     * They Contain the various sprints with prioritized collections of references to each sub-project issues.
 
-* Wiki
+* **[yetNotUsed]** Wiki
 
     * Information that reach the global development as for instance, the meetings with the tutor.
