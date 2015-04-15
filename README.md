@@ -19,8 +19,10 @@ As a proof of concept, the sistem is ready to be deployed at [Univesity of Alica
     * Java Jersey JSON REST API
 * [mejorua-webapp](https://github.com/ElMesa/mejorua-webapp)
     * Issue manager/tracker web app
-* [mejorua-smartphone](https://github.com/ElMesa/mejorua-webapp)
+* **[deprecated]** [mejorua-smartphone](https://github.com/ElMesa/mejorua-webapp)
     * Issue creator/tracker smartphone app
+* [mejorua-smartphone-angular](https://github.com/ElMesa/mejorua-smartphone-angular)
+    * Migration of client to AngularJS
 
 ##Goal of the repository
 
